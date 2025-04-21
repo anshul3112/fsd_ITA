@@ -1,9 +1,9 @@
 import React from 'react'
-import Register from './Components/Register.js/index.js'
-import View from './Components/View.js/index.js'
-import Update from './Components/Update.js'
+import Register from './Components/Register.jsx'
+import View from './Components/View.jsx'
+import Update from './Components/Update.jsx'
 import './App.css'
-import Delete from './components/Delete'
+import Delete from './Components/Delete.jsx'
 const App = () => {
   return (
     <div>
